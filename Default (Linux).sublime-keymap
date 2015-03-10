@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+§"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+shift+g"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "git "} },
+    { "keys": ["ctrl+shift+s"], "command": "git_raw", "args": {"append_current_file": true, "command": "git add"} },
+    { "keys": ["ctrl+shift+r"], "command": "git_raw", "args": {"append_current_file": true, "command": "git reset HEAD"} },
+    { "keys": ["ctrl+shift+c"], "command": "git_commit" }
+]
