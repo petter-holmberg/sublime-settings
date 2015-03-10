@@ -1,0 +1,18 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CMakeEditor",
+		"Git",
+		"Markdown Preview",
+		"Modific",
+		"Package Control",
+		"Pretty JSON",
+		"Protocol Buffer Syntax",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-cpplint"
+	]
+}
